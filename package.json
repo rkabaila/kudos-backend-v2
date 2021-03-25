@@ -1,0 +1,12 @@
+{
+  "name": "kudos-backend-v2",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "prisma": "2.19.0"
+  }
+}
